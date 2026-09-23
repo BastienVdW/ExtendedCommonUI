@@ -17,7 +17,7 @@
 class FSubsystemCollectionBase;
 
 UExtendedCommonManagerSubsystem::UExtendedCommonManagerSubsystem()
-{
+ {
 }
 
 void UExtendedCommonManagerSubsystem::Initialize(FSubsystemCollectionBase& Collection)
